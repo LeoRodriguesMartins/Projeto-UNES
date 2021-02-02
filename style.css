@@ -35,7 +35,7 @@ body{
     background-color: #6730ec;
     color: white ;
     border-color: #7984ee;
-    border-radius: 5px;
+    border-radius: 60px;
 }
 
 #botao2{
@@ -45,7 +45,7 @@ body{
     background-color: #6730ec;
     color: white ;
     border-color: #7984ee;
-    border-radius: 5px;
+    border-radius: 60px;
     margin-right: 1%;
 }
 
@@ -67,8 +67,21 @@ h1{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+h2{
+    color: #280b6f;
+    font-family: Arial, Helvetica, sans-serif;
+}
 p{
     color: #1f1044;
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.conteudo{
+    margin-top: 7%;
+}
+
+#capa2{
+    height: 100%;
+    width: 100%;
 }
